@@ -1,0 +1,500 @@
+    8  python
+    9  python3
+   10  pip --version
+   11  pip3 --version
+   12  pip --version
+   13  pip3 install PyQt5
+   14  pip install --upgrade pip
+   15  pip3 install --upgrade pip
+   16  python
+   17  python3
+   18  /Users/zhaozhenguo/PycharmProjects/haha/dist/Calc/Calc ; exit;
+   19  pyinstall Calc.py
+   20  pyinstaller Calc.py
+   21  pyinstaller --version
+   22  pyinstaller info
+   23  pip3 install pyinstaller
+   24  pip3 install qt-creator
+   25  python3
+   26  /Users/zhaozhenguo/PycharmProjects/haha/dist/Calc2/Calc2 ; exit;
+   27  pyinstaller Calc1.py
+   28  pyinstaller Calc2.py
+   29  pyinstaller hell
+   30  python3
+   31  /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Resources/reindexdel.sh ; exit;
+   32  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   33  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   34  /Users/zhaozhenguo/Documents/sqlite/mydata.db "
+   35  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   36  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   37  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   38  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   39  /Users/zhaozhenguo/Downloads/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   40  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   41  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   42  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   43  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   44  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   45  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   46  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   47  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   48  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   49  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   50  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   51  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   52  /Users/zhaozhenguo/Downloads/DMG/sqlite-tools-osx-x86-3280000/sqlite3 ; exit;
+   53  /Applications/Alfred\ 4.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Resources/reindex.sh ; exit;
+   54  /Applications/Alfred\ 4.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Resources/reindex.sh ; exit;
+   55  python
+   56  cd
+   57  pwd
+   58  cd Destop/
+   59  cd desktop/
+   60  l
+   61  ls
+   62  mv intro.ipynb.txt intro.ipynb
+   63  cd downloads/
+   64  ls
+   65  mv intro.ipynb.txt intro.ipynb
+   66  ls
+   67  jupyter notebook
+   68  jupyter notebook
+   69  jupyter notebook
+   70  cd
+   71  -/Desktop
+   72  ls
+   73  ~/Desktop
+   74  cd desktop
+   75  jupyter
+   76  jupyter notebook
+   77  python
+   78  cd desktop/
+   79  juypter notebook
+   80  juypter notebook intro.ipynb
+   81  jupyter notebook
+   82  cd
+   83  cd desktop
+   84  juypter notebook
+   85  jupyter notebook
+   86  cd desktop
+   87  jupyter notebook
+   88  python
+   89  python
+   90  python
+   91  round(3.14)
+   92  python
+   93  python --help
+   94  which python
+   95  python --version
+   96  pwd
+   97  ls
+   98  cd desktop
+   99  jupyter notebook
+  100  spyder
+  101  vi mh.py
+  102  cd desktop
+  103  jupyter notebook
+  104  cd desktop
+  105  jupyter notebook
+  106  conda udate jupyter
+  107  conda update jupyter
+  108  jupyter notebook
+  109  cd desktop
+  110  jupyter notebook
+  111  python
+  112  python
+  113  cd desktop
+  114  python Ex1.py
+  115  python Ex1.py
+  116  python Ex1.py
+  117  help(help)
+  118  help
+  119  help(commond)
+  120  help(round)
+  121  help(round())
+  122  help round()
+  123  help(round)
+  124  help
+  125  help round
+  126  help help
+  127  help round()
+  128  help round
+  129  python help(help)
+  130  python help round
+  131  python
+  132  python Ex2.py
+  133  cd desktop
+  134  jupyter notebook
+  135  cd desktop
+  136  jupyter notebook
+  137  cd desktop
+  138  jupyter notebook
+  139  spyder
+  140  quit()
+  141  cd desktop
+  142  jupyter notebook
+  143  cd desktop
+  144  jupyter notebook
+  145  cd desktop
+  146  jupyter notebook
+  147  jupyter notebook
+  148  cd desktop
+  149  jupyter notebook
+  150  quit()
+  151  cd desktop
+  152  juypter notebook
+  153  jupyter notebook
+  154  jupyter notebook
+  155  cd desktop
+  156  jupyter notebook
+  157  cd desktop
+  158  jupyter notebook
+  159  cd desktop
+  160  jupyter notebook
+  161  cd
+  162  cd Users
+  163  cd /Users
+  164  ls
+  165  cd/user
+  166  ls
+  167  zhaozhenguo
+  168  cd zhaozhenguo
+  169  ls
+  170  ls -a
+  171  cd desktop
+  172  cd desktop
+  173  cd desktop
+  174  cd Desktop
+  175  spyder
+  176  cd desktop
+  177  python temp.py
+  178  cm desktop
+  179  cd desktop
+  180  jupyter notebook
+  181  cd desktop
+  182  mv hw2.ipynb hw2.ipynb.2
+  183  mv hw2.ipynb hw2.ipynb
+  184  mv hw2.ipynb.2  hw2.ipynb
+  185  jupyter notebook
+  186  cd desktop
+  187  jupyter notebook
+  188  cd desktop
+  189  mv ifforwhile.ipynb.txt ifforwhile.ipynb
+  190  jupyter notebook
+  191  spyder
+  192  spyder
+  193  cd desktop
+  194  jupyter notebook
+  195  spyder
+  196  cd desktop
+  197  jupyter notebook
+  198  spyder
+  199  cd desktop
+  200  jupyter notebook
+  201  conda list
+  202  conda search openpyxl
+  203  sudo conda install openpyxl
+  204  conda search openpyxl
+  205  cd desktop
+  206  mv hw3.ipynb.txt hw3.ipynb
+  207  SPYDER
+  208  cd desktop
+  209  jupyter notebook
+  210  cd desktop
+  211  jupyter notebook
+  212  cd desktop
+  213  jupyter notebook
+  214  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+  215  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/" defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/" defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+  216  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+  217  defaults delete com.google.Chrome DefaultSearchProviderName
+  218  defaults write com.google.Chrome HomepageIsNewTabPage -bool false
+  219  efaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+  220  defaults write com.google.Chrome NewTabPageLocation -string "https://www.google.com/"
+  221  defaults write com.google.Chrome HomepageLocation -string "https://www.google.com/"
+  222  defaults delete com.google.Chrome DefaultSearchProviderSearchURL
+  223  defaults delete com.google.Chrome DefaultSearchProviderNewTabURL
+  224  defaults delete com.google.Chrome DefaultSearchProviderName
+  225  spyder
+  226  cd desktop
+  227  jupyter notebook
+  228  cd desktop
+  229  wc myadd.py
+  230  spyder
+  231  cd desktop
+  232  jupyter notebook
+  233  cd desktop
+  234  mv practice2.ipynb.txt practice2.ipynb
+  235  spyder
+  236  cd desktop
+  237  jupyter notebook
+  238  cd desktop
+  239  jupyter notebook
+  240  cd desktop
+  241  jupyter notebook
+  242  cd desktop
+  243  jupyter notebook
+  244  spyder
+  245  cd desktop
+  246  jupyter notebook
+  247  spyder
+  248  spyder
+  249  cd desktop
+  250  jupyter notebook
+  251  spyder
+  252  /var/folders/45/dsd6998j0qsc64fbr8hq5m_w0000gn/T/BetterZip\ Temporary\ Folder.jypDi6/BetterZip\ Temporary\ Folder.Mc9PYn/Atom.app/Contents/MacOS/Atom ; exit;
+  253   python /Users/zhaozhenguo/.atom/packages/atom-python-run/lib/../cp/main.py --pause -- python /Users/zhaozhenguo/Desktop/1.py
+  254   python /Users/zhaozhenguo/.atom/packages/atom-python-run/lib/../cp/main.py --pause -- python /Users/zhaozhenguo/Desktop/1.py
+  255   python /Users/zhaozhenguo/.atom/packages/atom-python-run/lib/../cp/main.py --pause -- python /Users/zhaozhenguo/Desktop/1.py
+  256   python /Users/zhaozhenguo/.atom/packages/atom-python-run/lib/../cp/main.py --pause -- python /Users/zhaozhenguo/Desktop/1.py
+  257   python /Users/zhaozhenguo/.atom/packages/atom-python-run/lib/../cp/main.py --pause -- python /Users/zhaozhenguo/Desktop/1.py
+  258  cd documents
+  259  ls
+  260  cd Archive
+  261  ls
+  262  cd desktop
+  263  jupyter notebook
+  264  cd desktop
+  265  jupyter notebook
+  266  help(modules)
+  267  cd desktop
+  268  jupyter notebook
+  269  spyder
+  270  cd desktop
+  271  jupyter notebook
+  272  which node
+  273  which node
+  274  source /anaconda3/bin/activate
+  275  conda activate base
+  276  //anaconda3/bin/python /Users/zhaozhenguo/Desktop/Untitled-1.py
+  277  spyder
+  278  cd desktop
+  279  jupyter notebook
+  280  python
+  281  cd desktop
+  282  jupyter notebook
+  283  cd desktop
+  284  jupyter notebook
+  285  source /Users/zhaozhenguo/anaconda3/bin/activate
+  286  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/1.py
+  287  conda activate base
+  288  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/1.py
+  289  cd desktop
+  290  jupyter notebook
+  291  source /Users/zhaozhenguo/anaconda3/bin/activate
+  292  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  293  conda activate base
+  294  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  295  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  296  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  297  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  298  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  299  dfafasf
+  300  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py
+  301  /Users/zhaozhenguo/anaconda3/bin/python
+  302  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/.vscode/extensions/ms-python.python-2019.10.41019/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 60653 /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py 
+  303  source /Users/zhaozhenguo/anaconda3/bin/activate
+  304  conda activate base
+  305  cd /Users/zhaozhenguo/Desktop/Oct15_Practice ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/.vscode/extensions/ms-python.python-2019.10.41019/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 60659 /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc7.py 
+  306  source /Users/zhaozhenguo/anaconda3/bin/activate
+  307  conda activate base
+  308  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc10.py
+  309  /Users/zhaozhenguo/anaconda3/bin/python
+  310  source /Users/zhaozhenguo/anaconda3/bin/activate
+  311  conda activate base
+  312  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc11.py
+  313  source /Users/zhaozhenguo/anaconda3/bin/activate
+  314  conda activate base
+  315  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc11.py
+  316  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc11.py
+  317  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc11.py
+  318  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc11.py
+  319  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc11.py
+  320  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc14.py
+  321  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc14.py
+  322  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunct15.py
+  323  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  324  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  325  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  326  /Users/zhaozhenguo/anaconda3/bin/python
+  327  source /Users/zhaozhenguo/anaconda3/bin/activate
+  328  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  329  conda activate base
+  330  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  331  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  332  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  333  /Users/zhaozhenguo/anaconda3/bin/python
+  334  source /Users/zhaozhenguo/anaconda3/bin/activate
+  335  conda activate base
+  336  source /Users/zhaozhenguo/anaconda3/bin/activate
+  337  conda activate base
+  338  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/Oct15_Practice/CopyFunc16.py
+  339  cd desktop
+  340  jupyter notebook
+  341  spyder
+  342  qq
+  343  cd desktop
+  344  jupyter notebook
+  345  cd desktop
+  346  jupyter notebook
+  347  cd desktop
+  348  jupyter notebook
+  349  conda install -c anaconda nltk
+  350  y
+  351  conda install -c anaconda nltk 
+  352  import nltk
+  353  python import nltk
+  354  source /Users/zhaozhenguo/anaconda3/bin/activate
+  355  conda activate base
+  356  /Users/zhaozhenguo/anaconda3/bin/python
+  357  source /Users/zhaozhenguo/anaconda3/bin/activate
+  358  conda activate base
+  359  source /Users/zhaozhenguo/anaconda3/bin/activate
+  360  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/testNestlist.py
+  361  conda activate base
+  362  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/testNestlist.py
+  363  git
+  364  git
+  365  xcode-select --install
+  366  git
+  367  git
+  368  cd desktop
+  369  jupyter notebook
+  370  source /Users/zhaozhenguo/anaconda3/bin/activate
+  371  conda activate base
+  372  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/hhh.py
+  373  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/hhh.py
+  374  cd desktop
+  375  jupyter notebook
+  376  cd desktop
+  377  jupyter noteboo
+  378  jupyter notebook
+  379  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/.vscode/extensions/ms-python.python-2019.10.41019/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 52236 /Users/zhaozhenguo/Desktop/hhh.py 
+  380  source /Users/zhaozhenguo/anaconda3/bin/activate
+  381  conda activate base
+  382  source /Users/zhaozhenguo/anaconda3/bin/activate
+  383  conda activate base
+  384  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/Desktop/1.py
+  385  cd desktop
+  386  jupyter notebook
+  387  cd desktop
+  388  jupyter notebook
+  389  /Users/zhaozhenguo/anaconda3/bin/python /Users/zhaozhenguo/.vscode/extensions/ms-python.python-2019.10.44104/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 62662 /Users/zhaozhenguo/Desktop/1.py 
+  390  conda activate base
+  391  df
+  392  sktop/1.py
+  393  spyder
+  394  git --version
+  395  nano --version
+  396  nano
+  397  cd ~/Desktop/workshop/unix_intro
+  398  bash
+  399  cd desktop/2019
+  400  ls
+  401  cd ~/Desktop/workshop/unix_intro
+  402  date
+  403  date _u
+  404  date -u
+  405  head example.txt
+  406  head -n example.txt
+  407  head -n 5 example.txt
+  408  head --help
+  409  man head
+  410  pwd
+  411  ls
+  412  head example.txt
+  413  head notes.txt
+  414  head experiment/notes.txt
+  415  head ex
+  416  head ex
+  417  headhea
+  418  head ex
+  419  head example.txt hae
+  420  head example.txt 
+  421  he
+  422  hee
+  423  ex
+  424  cd ~/Desktop/workshop/unix_intro
+  425  cd experiment/
+  426  ls
+  427  pwd
+  428  ls
+  429  head notes.txt 
+  430  ../
+  431  cd ..
+  432  tail example.txt 
+  433  less example.txt 
+  434  wc example.txt 
+  435  man wc
+  436  wc -l example.txt 
+  437  cp example.txt example_copy.txt
+  438  ls
+  439  ls data
+  440  cp example.txt  data/example_2.txt
+  441  ls data/
+  442  ls
+  443  mv example_copy.txt experiment/
+  444  ls
+  445  ls experiment/
+  446  rm experiment/example_copy.txt 
+  447  nano sample_names.txt
+  448  head sample_names.txt 
+  449  mkdir
+  450  mkdir subset
+  451  ls
+  452  rmdir subset
+  453  ls
+  454  mv sample_names.txt sample_names_2.txt
+  455  ls
+  456  wc -l example.txt 
+  457  ls | wc -l
+  458  ls data/example
+  459  ls data/all_samples/
+  460  ls data/all_samples/ |wc -l
+  461  ls > directory_contents.txt
+  462  ls
+  463  head directory_contents.txt 
+  464  ls experiment/ > directory_contents.txt 
+  465  head directory_contents.txt 
+  466  ls >> directory_contents.txt 
+  467  head
+  468  cd ~/Desktop/workshop/unix_intro
+  469  cd ~/Desktop/workshop/unix_intro
+  470  cd fastq_files/
+  471  cd ~/Desktop/workshop/unix_intro
+  472  ls
+  473  cd six_commands/
+  474  ls
+  475  head gene_annotations
+  476  head gene_annotations.tsv
+  477  head -n 1 gene_annotations.tsv
+  478  wc -l gene_annotations.tsv
+  479  cut -f 1 gene_annotations.tsv
+  480  cut -f 1 gene_annotations.tsv|head
+  481  cut -f 1,3 gene_annotations.tsv|head
+  482  cut -f 1-3 gene_annotations.tsv|head
+  483  date
+  484  cut -d, -f 1-3 gene_annotations.tsv|head
+  485  head colors.txt 
+  486  grep blue colors.txt 
+  487  grep re colors.txt 
+  488  grep K09765 gene_annotations.tsv
+  489  grep K18979 gene_annotations.tsv
+  490  grep -c K18979 gene_annotations.tsv
+  491  head colores.txt
+  492  paste colors.txt colores.txt
+  493  pwd
+  494  cd ..
+  495  my_var = TUCSON
+  496  echo my_var
+  497  echo $my_var
+  498  my=TUCSON
+  499  echo $my
+  500  for item in earth mars venus ; do   echo $item; done
+  501  cd ~/Desktop/workshop/unix_intro
+  502  ls
+  503  new_var=welcome_back
+  504  echo $new_var
+  505  for item in earth mars venus; do echo $item; done
+  506  for item in earth mars venus; do echo $item; done
+  507  history > history.txt
